@@ -4,6 +4,8 @@ What is a better, more efficient, environment-friendly power source?
 
 The Earth is my client. THe Earth's problem is that its dying due to global warming. The leading cause of global warming is fossil fuels which can easily be resolved. My solution is that I will create a water powered super-mill that will power a city's housing units and train system. 
 
+_________________________________________________________________________
+
 
 ### Project Timeline
 
