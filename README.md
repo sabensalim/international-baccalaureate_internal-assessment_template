@@ -30,12 +30,19 @@ Renato:
 
 
 Q:On average, how much homework do you get per day(hours)?
+###
 A: 2-4 hours, but i'm slow
+###
 Q: how often do you find yourself procrastinating?
+###
 A: all the time
+###
 Q: when do you find yourself procrastinating, when do you do the work, a day before or?
+###
 A: IF the assignment is important, I wait till the morning to finish it, but I wake up early to do it. 
+###
 Q: Would it be helpful to have something to help you prioritize your workload?
+###
 A: Yeah because sometimes I don’t know what homework I have and to have it all stored in one place would be very helpful.
 
 Henry:
