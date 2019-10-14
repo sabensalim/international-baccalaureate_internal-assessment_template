@@ -48,12 +48,19 @@ A: Yeah because sometimes I don’t know what homework I have and to have it all
 Henry:
 
 Q:On average, how much homework do you get per day(hours)?
+###
 A:2-3 hours, no
+###
 Q: how often do you find yourself procrastinating?
+###
 A:yeah everyday
+###
 Q: when do you find yourself procrastinating, when do you do the work, a day before or?
+###
 A: 10-30 minutes, day before
+###
 Q: Would it be helpful to have something to help you prioritize your workload?
+###
 A: Yea, organize my homework.
 
 _________________________________________________________________________
