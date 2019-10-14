@@ -1,8 +1,7 @@
-### Water Powered City(Ergonomic City)
+### Homework Prioritizer
 
-What is a better, more efficient, environment-friendly power source?
-
-The Earth is my client. THe Earth's problem is that its dying due to global warming. The leading cause of global warming is fossil fuels which can easily be resolved. My solution is that I will create a water powered super-mill that will power a city's housing units and train system. 
+How can students calculate when the best time to do their homework is based on their extracurriculars?
+How can we eliminate or reduce procrastination?
 
 _________________________________________________________________________
 
@@ -10,15 +9,14 @@ _________________________________________________________________________
 ### Project Timeline
 
 #### Sep-Oct    (month 0-1)
-Design the watermill, the city, and the train system.
-
+design the website and algorithm for calculating homework.
+determine how to use the PowerSchool and Google Classroom API's and somehow store two different pieces of information from the two API's in one class.
 #### Oct-Nov    (month 1-2)
-build the city and code the trains
-
+write the code and the CSS for the website
 #### Nov-Dec    (month 2-1)
 prototype 1 - fix bugs
 #### Dec-Jan    (month 3-4)
-prototype 2 - release to public
+prototype 2 - release to public, allow people to prototype it and give me feedback
 #### Jan-Feb    (month 4-5)
 prototype 3 - final touches
 #### Feb-March  (month 5-6)
@@ -28,20 +26,39 @@ finalize and present
 _________________________________________________________________________
 
 ### Interview
+Renato:
 
 
+Q:On average, how much homework do you get per day(hours)?
+A: 2-4 hours, but i'm slow
+Q: how often do you find yourself procrastinating?
+A: all the time
+Q: when do you find yourself procrastinating, when do you do the work, a day before or?
+A: IF the assignment is important, I wait till the morning to finish it, but I wake up early to do it. 
+Q: Would it be helpful to have something to help you prioritize your workload?
+A: Yeah because sometimes I don’t know what homework I have and to have it all stored in one place would be very helpful.
 
+Henry:
 
+Q:On average, how much homework do you get per day(hours)?
+A:2-3 hours, no
+Q: how often do you find yourself procrastinating?
+A:yeah everyday
+Q: when do you find yourself procrastinating, when do you do the work, a day before or?
+A: 10-30 minutes, day before
+Q: Would it be helpful to have something to help you prioritize your workload?
+A: Yea, organize my homework.
 
 _________________________________________________________________________
 
 ### Scenario:
 
-  I chose two clients, both of which are students who ride the MTA trains almost daily. Almost every morning, they seem to have some sort of complaint about their commute that morning. Also, these two students are also invested in the environment, and they would like to prevent our planet dying at the hands of Global Warming. So, I proposed a city, powered by a water mill, that uses electricity to power the city’s train system. The train system doesn’t allow for failure because similar to the MTA’s current train system, the trains aren’t physically allowed to leave the station. However, the reason why this project is more advanced and won’t fail is because there is no space for human error. Most of the MTA’s problems are based on a conductor stepping out of line, or they might stop or go at the wrong time. Through this efficient train system, the train cars will know exactly when to move and when to stop. In addition, these cars will be powered by the water mill through an arduino controller, where all the code and signal connections will be stored. Also, there will be houses, with  LEDS in them that are also powered by the water mill. The LEDs only portray a certain amount of light based on the time of day in the real world. Using the PWM(Pulse Width Modulation), the lights can range from the values 1 - 255, so they will be brighter towards the night time, but at a certain time they will turn off until the morning again. Finally, the water mill will be created by attaching a 12V motor onto a mill that spins when water is poured onto it. On another note, the advisor that I picked for this project is my CompSci teacher, Tristan, because they are the only person who can advise my project because no other adults in my life would really understand the project and wouldn’t be able to discuss it with me. 
+  I chose three clients, all of which seem to have the problem of managing their time wisely. These three students, Zack, Henry and Renato, all play sports after school and get home late. They seem to find themselves in the dilemma of a large amount of homework and little time to do it. After discussing my project with the three of them, they all seemed to agree with me that a program that allowed them to prioritize which work to do, would help them because they would be able to get into the habit of what to prioritize and not to procrastinate. The advisor that I picked for this project is my CompSci teacher, Tristan, because they are the only person who can advise my project because no other adults in my life would really understand the project and wouldn’t be able to discuss it with me. My proposed product is a website application that takes in what homework a student has, and the student has the ability to insert what extracurriculars they might have. From there, the application determines what homework the student should do at which time. Also, the application will be able to shut out any websites that might be distracting, and the student can choose which websites may be distracting. 
 
 
 _________________________________________________________________________
 
+### Rationale:
 
 
 
