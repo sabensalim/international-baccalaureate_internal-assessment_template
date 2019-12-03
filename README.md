@@ -75,7 +75,14 @@ _________________________________________________________________________
 ### Rationale:
 
 For this project I would probably use the language that I am most familiar in which is javascript, because I understand most of it, and I already have a picture in my head of what my code would look like. However, I might experiment with Python a little bit because it is very helpful when it comes to data types and storing them. To determine some of the student's homework, I am using the Powerschool API, which is the website where a lot of teachers post the homework, and I will also use the Google Classroom API because a lot of teachers also use it to post homework. 
+_________________________________________________________________________
 
+
+### Success Criteria:
+Does this website allow people to enter in their homework and extracurricular information?
+Does this website display what homework people have?
+Does this website allow for the user to see when the best possible time to do homework is, based on what activities they have afterschool?
+Can the user see their homework from google classroom and PowerSchool from the API?
 
 
 
