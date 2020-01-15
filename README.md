@@ -74,7 +74,7 @@ _________________________________________________________________________
 
 ### Rationale:
 
-For this project I would probably use the language that I am most familiar in which is javascript, because I understand most of it, and I already have a picture in my head of what my code would look like. However, I might experiment with Python a little bit because it is very helpful when it comes to data types and storing them. To determine some of the student's homework, I am using the Powerschool API, which is the website where a lot of teachers post the homework, and I will also use the Google Classroom API because a lot of teachers also use it to post homework. 
+For this project I would probably use the language that I am most familiar in which is javascript, because I understand most of it, and I already have a picture in my head of what my code would look like. I will be using Google App Scripts, which is a Javascript platform in the cloud. This will allow me to use some google apps, like Gmail and Google Calender. However, I might experiment with Python a little bit because it is very helpful when it comes to data types and storing them. To determine some of the student's homework, I am using the Powerschool API, which is the website where a lot of teachers post the homework, and I will also use the Google Classroom API because a lot of teachers also use it to post homework. 
 _________________________________________________________________________
 
 
